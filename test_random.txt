@@ -1,0 +1,23 @@
+moroz 10
+i 5
+solnce 2
+den 100
+chudesny 1
+esche 50
+ty 3
+dremlesh 7
+drug 90
+prelestny 12
+pora 4
+krasavica 77
+prosnis 3
+otkroy 1
+somknuty 99
+negoy 2
+vzory 5
+navstrechu 11
+severnoy 6
+avrory 8
+END_TABLE
+moroz 10
+pushkin 1

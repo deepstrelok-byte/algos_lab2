@@ -1,0 +1,21 @@
+zebra 100
+yam 90
+xray 80
+watermelon 70
+violet 60
+ugli 50
+tomato 40
+strawberry 30
+raspberry 20
+quince 10
+papaya 5
+orange 4
+nectarine 3
+mango 2
+lemon 1
+kiwi 0
+honeydew -1
+grape -2
+END_TABLE
+tomato 40
+apple 1
